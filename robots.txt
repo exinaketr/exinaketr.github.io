@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://exinaketr.github.io/sitemap.html.gz
+Sitemap: https://exinaketr.github.io/app/sitemap.html.gz
+Sitemap: https://exinaketr.github.io/assets/sitemap.html.gz
+Sitemap: https://exinaketr.github.io/css/sitemap.html.gz
+Sitemap: https://exinaketr.github.io/includes/sitemap.html.gz
+Sitemap: https://exinaketr.github.io/item/sitemap.html.gz
+Sitemap: https://exinaketr.github.io/src/sitemap.html.gz
